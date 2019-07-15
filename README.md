@@ -6,4 +6,4 @@ Sovelluksella kuka tahansa voi nähdä autolla kulkemansa työ- tms. arkimatkan 
 
 Dokumentaatio:
 * [Backlog](/dokumentaatio/backlog.md)
-* [Työaikakirjanpito](/työaikakirjanpito/backlog.md)
+* [Työaikakirjanpito](/dokumentaatio/työaikakirjanpito.md)
