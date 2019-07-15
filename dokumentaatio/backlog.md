@@ -2,6 +2,7 @@
 
  
 ### Tehtävät tekemättä:
+* Mobiilirautis toimivammaksi
 * Ulkoasu
 * Rautiksien käyttäjätestaus
 * Rajapintojen POC HSL / koko suomi
