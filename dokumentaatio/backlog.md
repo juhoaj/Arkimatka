@@ -7,7 +7,7 @@
 ### Tehtävät tekemättä:
 * Ulkoasu
 * Rautiksien käyttäjätestaus
-* Rajapintojen POC
+* Rajapintojen POC HSL / koko suomi
 * Arkkitehtuurin arvaus
 
 
@@ -27,3 +27,4 @@
 ### Jatkokehitys
 * Käyttäjä näkee valitsemastansa reitistä kartan
 * Käyttäjä voi valita autoksi "muu" ja syöttää g co2/km -arvon
+* Reitin lisätiedoissa linkki jonka kautta näkee reitin 
