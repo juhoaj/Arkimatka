@@ -1,8 +1,5 @@
 # backlog
 
-
-### Backlog tehty:
-
  
 ### Tehtävät tekemättä:
 * Ulkoasu
@@ -10,8 +7,7 @@
 * Rajapintojen POC HSL / koko suomi
 * Arkkitehtuurin arvaus
 
-
-### Backlog v1 tekemättä:
+### v1 käyttäjätarinat tekemättä:
 * Käyttäjä pystyy syöttämään osoitteen ennakoivaa syöttöä hyödyntäen
 * Käyttäjä näkee kahden osoitteen välisen automatkan
 * Käyttäjä voi valita ~viidestä erityyppisestä autosta ja kertoa viikottaisten matkojen määrän.
@@ -19,12 +15,19 @@
 * Käyttäjä näkee co2 kuorman vertailun 
 
 
-### Backlog v2 tekemättä:
+---
+
+### v2 käyttäjätarinat:
 * Käyttäjä näkee julkisen liikenteen reitit osoitteiden välillä
 * Käyttäjä näkee valitsemansa reitin co2-säästön vertailun
 * Käyttäjä voi klikata i-pallukkaa laskukaavariveillä ja saa lisätietoa laskuperusteista
 
-### Jatkokehitys
+### Jatkokehitys käyttäjätarinat:
 * Käyttäjä näkee valitsemastansa reitistä kartan
 * Käyttäjä voi valita autoksi "muu" ja syöttää g co2/km -arvon
 * Reitin lisätiedoissa linkki jonka kautta näkee reitin 
+
+---
+
+### Käyttäjätarinat tehty:
+
