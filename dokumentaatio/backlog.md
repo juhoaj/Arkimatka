@@ -6,7 +6,7 @@
 * Ulkoasu
 * Rautiksien käyttäjätestaus
 * Rajapintojen POC HSL / koko suomi
-* Arkkitehtuurin arvaus
+* Sovellusrakenteen arvaus
 
 ### v1 käyttäjätarinat tekemättä:
 * Käyttäjä pystyy syöttämään osoitteen ennakoivaa syöttöä hyödyntäen
